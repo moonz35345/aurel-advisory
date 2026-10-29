@@ -1,0 +1,9 @@
+.next/
+.cache/
+node_modules/
+package-lock.json
+public/
+test-results/
+playwright-report/
+docs/*.svg
+next-env.d.ts

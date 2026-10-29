@@ -1,0 +1,105 @@
+import type { TranslationEntry } from "./config";
+export const faqMessages: TranslationEntry[] = [
+  [
+    "Frequently asked questions",
+    "Häufig gestellte Fragen",
+    "Veelgestelde vragen",
+    "Sıkça sorulan sorular",
+  ],
+  [
+    "What types of businesses do you work with?",
+    "Mit welchen Unternehmen würden Sie arbeiten?",
+    "Met wat voor bedrijven zou u samenwerken?",
+    "Hangi tür işletmelerle çalışırsınız?",
+  ],
+  [
+    "How would an engagement begin?",
+    "Wie würde ein Projekt beginnen?",
+    "Hoe zou een opdracht beginnen?",
+    "Bir proje nasıl başlar?",
+  ],
+  [
+    "How long does a typical project take?",
+    "Wie lange dauert ein typisches Projekt?",
+    "Hoe lang duurt een gemiddeld project?",
+    "Tipik bir proje ne kadar sürer?",
+  ],
+  [
+    "How are consulting fees structured?",
+    "Wie würden sich die Honorare gestalten?",
+    "Hoe zouden de adviestarieven worden opgebouwd?",
+    "Danışmanlık ücretleri nasıl belirlenir?",
+  ],
+  [
+    "Can you work alongside our internal team?",
+    "Würden Sie mit unserem internen Team zusammenarbeiten?",
+    "Zou u met ons interne team samenwerken?",
+    "İç ekibimizle birlikte çalışabilir misiniz?",
+  ],
+  [
+    "Are the company, case studies, and results real?",
+    "Sind Unternehmen, Fallstudien und Ergebnisse echt?",
+    "Zijn het bedrijf, de cases en de resultaten echt?",
+    "Şirket, vaka çalışmaları ve sonuçlar gerçek mi?",
+  ],
+  [
+    "What happens when I submit the inquiry form?",
+    "Was passiert beim Absenden des Anfrageformulars?",
+    "Wat gebeurt er als ik het aanvraagformulier indien?",
+    "Talep formunu gönderdiğimde ne olur?",
+  ],
+  [
+    "Do you support implementation as well as strategy?",
+    "Würden Sie auch bei der Umsetzung unterstützen?",
+    "Zou u naast strategie ook de uitvoering ondersteunen?",
+    "Stratejinin yanında uygulamayı da destekler misiniz?",
+  ],
+  [
+    "The Aurel concept is designed around ambitious mid-market businesses, established organisations, and investment-backed teams navigating growth or change in Europe. This portfolio demonstration illustrates what a focused advisory partnership could look like.",
+    "Das Aurel-Konzept richtet sich an ambitionierte Mittelständler, etablierte Organisationen und finanzierte Wachstumsteams in Europa. Diese Portfolio-Demo zeigt beispielhaft, wie eine fokussierte Beratungspartnerschaft aussehen könnte.",
+    "Het Aurel-concept richt zich op ambitieuze middelgrote bedrijven, gevestigde organisaties en gefinancierde groeiteams in Europa. Deze portfoliodemo laat zien hoe een gerichte adviesrelatie eruit zou kunnen zien.",
+    "Aurel yaklaşımı Avrupa’da büyüyen veya dönüşen orta ölçekli işletmeler, yerleşik kuruluşlar ve yatırım destekli ekipler için tasarlanmıştır. Bu portföy demosu odaklı bir danışmanlık ortaklığının nasıl olabileceğini gösterir.",
+  ],
+  [
+    "A typical engagement would begin with a focused discovery conversation to understand the decision, the context, and the people involved. We would then agree a clear scope, deliverables, working cadence, and measures of success before any work starts.",
+    "Ein Projekt würde mit einem gezielten Gespräch über Entscheidung, Kontext und Beteiligte beginnen. Vor dem Start würden Umfang, Ergebnisse, Arbeitsrhythmus und Erfolgskriterien gemeinsam vereinbart.",
+    "Een opdracht zou beginnen met een gericht gesprek over de beslissing, context en betrokkenen. Vooraf zouden we scope, opleveringen, werkritme en succescriteria samen vastleggen.",
+    "Proje; kararı, bağlamı ve ilgili kişileri anlamaya yönelik odaklı bir görüşmeyle başlar. Çalışma öncesinde kapsam, çıktılar, çalışma düzeni ve başarı ölçütleri birlikte belirlenir.",
+  ],
+  [
+    "The example engagements shown here range from 8 to 16 weeks. A focused diagnostic might take two to four weeks; a larger transformation could run in phases over several months. Timing would always follow the agreed scope.",
+    "Die gezeigten Beispielprojekte dauern 8 bis 16 Wochen. Eine Standortbestimmung könnte zwei bis vier Wochen dauern, eine größere Transformation mehrere Monate. Entscheidend wäre stets der vereinbarte Umfang.",
+    "De voorbeeldopdrachten duren 8 tot 16 weken. Een gerichte diagnose zou twee tot vier weken kunnen duren; een grotere transformatie enkele maanden. De afgesproken scope bepaalt de planning.",
+    "Örnek projeler 8–16 hafta arasındadır. Odaklı bir değerlendirme iki ila dört hafta, daha büyük bir dönüşüm aşamalar halinde birkaç ay sürebilir. Süre her zaman anlaşılan kapsama bağlıdır.",
+  ],
+  [
+    "A well-defined project would typically use a fixed fee linked to scope and milestones. Longer implementation support could use a monthly arrangement. All budgets in the inquiry form are indicative planning ranges, not published service prices.",
+    "Für klar definierte Projekte wäre ein Festhonorar anhand von Umfang und Meilensteinen denkbar. Längere Unterstützung könnte monatlich abgerechnet werden. Die Budgetangaben im Formular sind unverbindliche Planungsrahmen, keine Leistungspreise.",
+    "Een duidelijk afgebakend project zou meestal een vaste prijs krijgen op basis van scope en mijlpalen. Langere ondersteuning zou maandelijks kunnen worden afgesproken. De formulierbudgetten zijn indicatieve planningsbedragen, geen gepubliceerde tarieven.",
+    "Kapsamı net projelerde ücret, kapsam ve dönüm noktalarına göre sabit belirlenebilir. Uzun uygulama desteği aylık düzenlenebilir. Formdaki bütçeler örnek planlama aralıklarıdır; yayımlanmış hizmet fiyatları değildir.",
+  ],
+  [
+    "Yes. The proposed model is collaborative: work with the people who understand the business, build shared ownership of decisions, and leave the team with practical tools they can continue to use.",
+    "Ja. Das vorgeschlagene Modell ist partnerschaftlich: mit den Menschen arbeiten, die das Unternehmen kennen, Entscheidungen gemeinsam tragen und dem Team praktische Werkzeuge hinterlassen.",
+    "Ja. Het voorgestelde model is gericht op samenwerking: werken met de mensen die het bedrijf kennen, samen beslissingen dragen en het team praktische hulpmiddelen meegeven.",
+    "Evet. Önerilen model iş birliğine dayanır: işletmeyi tanıyan insanlarla çalışmak, kararları birlikte sahiplenmek ve ekibe kullanmaya devam edebilecekleri pratik araçlar bırakmak.",
+  ],
+  [
+    "No. Aurel Advisory is a fictional company created for an agency portfolio demonstration. Every organisation, engagement, and performance figure shown is an illustrative example. No genuine client relationships, endorsements, or results are claimed.",
+    "Nein. Aurel Advisory ist ein fiktives Unternehmen für eine Agentur-Portfolio-Demo. Alle Organisationen, Projekte und Kennzahlen sind beispielhaft. Es werden keine echten Kundenbeziehungen, Empfehlungen oder Ergebnisse behauptet.",
+    "Nee. Aurel Advisory is een fictief bedrijf voor een bureauportfolio. Alle organisaties, opdrachten en cijfers zijn illustratieve voorbeelden. Er worden geen echte klantrelaties, aanbevelingen of resultaten geclaimd.",
+    "Hayır. Aurel Advisory bir ajans portföy demosu için oluşturulmuş kurgusal şirkettir. Tüm kuruluşlar, projeler ve rakamlar örnektir. Gerçek müşteri ilişkileri, tavsiyeler veya sonuçlar iddia edilmez.",
+  ],
+  [
+    "The form validates your entries in your browser and shows a local demo confirmation. It does not send an email, store your inquiry on a server, or contact a consulting team. Please use sample information when exploring the demonstration.",
+    "Das Formular prüft Ihre Eingaben im Browser und zeigt eine lokale Demo-Bestätigung. Es versendet keine E-Mail, speichert keine Anfrage auf einem Server und kontaktiert kein Team. Bitte verwenden Sie Beispieldaten.",
+    "Het formulier controleert uw invoer in de browser en toont een lokale demobevestiging. Het verstuurt geen e-mail, slaat geen aanvraag op een server op en neemt geen contact op. Gebruik voorbeeldgegevens.",
+    "Form, bilgilerinizi tarayıcıda doğrular ve yerel bir demo onayı gösterir. E-posta göndermez, talebinizi sunucuda saklamaz veya bir ekiple iletişim kurmaz. Lütfen örnek bilgiler kullanın.",
+  ],
+  [
+    "The service concept includes both direction-setting and practical delivery support. A proposed engagement could include an implementation roadmap, pilot design, progress reviews, and capability transfer to the internal team.",
+    "Das Leistungskonzept umfasst Ausrichtung und praktische Umsetzung. Ein Projekt könnte eine Roadmap, Pilotkonzeption, Fortschrittsprüfungen und Wissenstransfer an Ihr Team enthalten.",
+    "Het dienstenconcept omvat zowel richting bepalen als praktische ondersteuning. Een opdracht zou een implementatieroadmap, pilotontwerp, voortgangsreviews en kennisoverdracht kunnen bevatten.",
+    "Hizmet yaklaşımı hem yön belirlemeyi hem uygulama desteğini kapsar. Örnek bir proje; uygulama yol haritası, pilot tasarım, ilerleme değerlendirmeleri ve iç ekibe yetkinlik aktarımı içerebilir.",
+  ],
+];
