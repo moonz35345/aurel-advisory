@@ -2,6 +2,10 @@
 
 A complete seven-page corporate website for a fictional European consulting company. Built as a high-end agency portfolio demonstration with Next.js App Router, TypeScript, Tailwind CSS 4, and reusable React components.
 
+## Live demo
+
+Explore the live website at [**aurel-advisory.netlify.app**](https://aurel-advisory.netlify.app/). Discover all seven pages in English, German, Dutch, and Turkish, including interactive portfolio examples and a validated demo inquiry form. Aurel Advisory and all case studies are fictional; inquiry submissions are processed locally and are not sent or stored on a server.
+
 ## Run locally
 
 Requires Node.js 20.9+ (Node 24 recommended) and npm.
